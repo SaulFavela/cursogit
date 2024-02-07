@@ -1,6 +1,5 @@
-Hola soy Saúl
-Estoy estudiando
+Yo soy Saúl Emanuel Favela Hernández
 
-Otra línea en el documento
+Ya casi acabamos de estudiar git
 
-Veremos qué poner aquí
+Está haciendo mucho aire hoy
